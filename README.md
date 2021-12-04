@@ -4,7 +4,7 @@ Sample AutoHotkey scripts for routine automation. This repository is going to be
 
 Feel free to suggest your ideas or AutoHotkey code!
 
-[Download AutoHotkey](https://www.autohotkey.com)
+[Download AutoHotkey](https://www.autohotkey.com)  
 If you want to use a script constantly, hit Win+R, type `shell:startup` and put your script into that directory.
 
 ### CapsLock for layout switching 
